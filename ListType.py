@@ -15,3 +15,8 @@ number[0]
 """
 number=[1,2,3,4,5]
 print(number[0])
+"""
+4. Python allow you to slice list. which means you can take the portion of a list.
+    you can get the first 3 numbers from the number list by writing numbe[0:3]
+"""
+print(number[0:3])
