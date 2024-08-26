@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="546f3d87-cc46-4eef-ad83-b40ae1339f97" name="Changes" comment="adding more files">
-      <change afterPath="$PROJECT_DIR$/Conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Break-Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuiltInFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variable Length Arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +56,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Break-Continue.executor": "Run",
+    "Python.BuiltInFunctions.executor": "Run",
     "Python.Conditions.executor": "Run",
     "Python.Conditions_Variables.executor": "Run",
+    "Python.Functions.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.Loops2.executor": "Run",
     "Python.Operators.executor": "Run",
     "Python.Printing.executor": "Run",
     "Python.Slicing.executor": "Run",
+    "Python.Variable Length Arguments.executor": "Run",
     "Python.Welcome.executor": "Run",
     "Python.sapmle-script.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,6 +74,35 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="BuiltInFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BuiltInFunctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BuiltInFunctions" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724491728623</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding more files">
+      <option name="closed" value="true" />
+      <created>1724574365363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724574365363</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
